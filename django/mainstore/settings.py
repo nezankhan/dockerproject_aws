@@ -84,7 +84,7 @@ DATABASES = {
         #'NAME': BASE_DIR / 'db.sqlite3',
         'NAME': 'dwstore',
         'USER': 'postgres',
-        'HOST': 'pg',
+        'HOST': 'localhost',
         'PORT': '5432',
     }
 }
